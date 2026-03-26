@@ -2,7 +2,7 @@
 
 A fully animated, modern web experience inspired by Grand Theft Auto VI, built with React JS and GSAP ScrollTrigger. This project showcases advanced scroll animations, smooth transitions, masking effects, and cutting-edge web animation techniques commonly found in award-winning websites.
 
-![GTA VI Website Preview](https://via.placeholder.com/800x400/1a1a1a/ffffff?text=GTA+VI+Inspired+Website)
+![GTA VI Website Preview](/src/assets/ProjectThumb.png)
 
 ## 📋 Table of Contents
 
