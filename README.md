@@ -10,7 +10,6 @@ A fully animated, modern web experience inspired by Grand Theft Auto VI, built w
 - [🛠️ Technologies Used](#%EF%B8%8F-technologies-used)
 - [📋 Prerequisites](#-prerequisites)
 - [🚀 Installation](#-installation)
-- [💻 Usage](#-usage)
 - [🏗️ Project Structure](#%EF%B8%8F-project-structure)
 - [📜 Scripts](#-scripts)
 - [🤝 Contributing](#-contributing)
@@ -37,7 +36,6 @@ A fully animated, modern web experience inspired by Grand Theft Auto VI, built w
 - **Vite 8.0** - Next-generation frontend tooling
 
 ### Development Tools
-- **ESLint** - Code linting and formatting
 - **Vite Plugin React** - React integration for Vite
 - **Tailwind Vite Plugin** - Tailwind CSS integration
 
@@ -81,32 +79,6 @@ npm --version
 
    Navigate to `http://localhost:5173` to view the website.
 
-## 💻 Usage
-
-### Development
-```bash
-npm run dev
-```
-Starts the Vite development server with hot module replacement.
-
-### Production Build
-```bash
-npm run build
-```
-Creates an optimized production build in the `dist` folder.
-
-### Preview Production Build
-```bash
-npm run preview
-```
-Serves the production build locally for testing.
-
-### Code Linting
-```bash
-npm run lint
-```
-Runs ESLint to check for code quality issues.
-
 ## 🏗️ Project Structure
 
 ```
@@ -144,23 +116,20 @@ website-GTA-VI/
 | Script | Description |
 |--------|-------------|
 | `npm run dev` | Start development server |
-| `npm run build` | Build for production |
-| `npm run preview` | Preview production build |
-| `npm run lint` | Run ESLint |
 
 ## 🤝 Contributing
 
 Contributions are welcome! Please follow these steps:
 
 1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
+2. Clone the repository (`git clone https://github.com/<your-username>/website-GTA-VI.git`)
+3. Create a feature branch (`git checkout -b <feature-name/branch-name>`)
+4. Commit your changes (`git commit -m 'Added amazing feature'`)
+5. Push to the branch (`git push origin <feature-name/branch-name>`)
+6. Open a Pull Request
 
 ### Development Guidelines
 - Follow the existing code style
-- Run `npm run lint` before committing
 - Test your changes thoroughly
 - Update documentation as needed
 
@@ -170,13 +139,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- **Rockstar Games** for the inspiration from Grand Theft Auto VI
+- **Rockstar Games** for the inspiration from [Grand Theft Auto VI](https://www.rockstargames.com/VI)
 - **GSAP** for the incredible animation library
-- **React** community for the amazing framework
+- **React/Vite** community for the amazing framework
 - **Tailwind CSS** for the utility-first approach
 
 ---
 
 **Note**: This project is for educational purposes and is not affiliated with Rockstar Games or Grand Theft Auto VI in any way.
-
-Made with ❤️ and lots of ☕
