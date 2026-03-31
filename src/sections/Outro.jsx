@@ -26,7 +26,7 @@ const Outro = () => {
 
                 <div>
                     <h3 className="gradient-title">
-                        Happy <br /> April Fool <br /> 2026 
+                        Happy <br /> April Fools' Day <br /> 2026 
                     </h3>
                 </div>
 
